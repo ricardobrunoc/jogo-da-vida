@@ -1,0 +1,1 @@
+<script language='javascript'>location.href='vd_index.php'</script>
